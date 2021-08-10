@@ -1,0 +1,15 @@
+{
+  "name": "discord-customstatus",
+  "version": "1.0.0",
+  "description": "Animate your custom status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Myazurite",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
